@@ -17,7 +17,7 @@ matters needing attention:
 	Enter "A", "B", "C", "D" option, the attention to enter the capital letters "A", "B", "C", "D", not input lowercase letter "a", "b", "c", "d", A lower case letter "a", 	"b", "c", "d" will not be able to read.
 
 
-3.At the end of the level,
+3. At the end of the level,
 	Ask your choice, exit the game (close the game), do it again, next level, or go back to the main menu. When you enter your choice, please note that you can enter the 		lowercase letters "n", "y", "x", "z", not the upper case letters "N", "Y", "X", "Z". The upper case letters "N", "Y", "X", "Z" will not be read.
 
 
